@@ -4,6 +4,9 @@ namespace Demo
 {
     class HelloWorld
     {
+	public static int sub(int a,int b){
+		return a-b;
+	}
 	public static int product(int a,int b){
 		return a*b;
 	}
