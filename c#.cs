@@ -13,6 +13,9 @@ namespace Demo
 	public static int add(int a, int b){
 		return a+b;
 	}
+	public static int div(int a,int b){
+		return a/b;
+	}
         static void Main(string[] args){
             Console.WriteLine(add(10,20));
 	Console.WriteLine(add(10,20));
